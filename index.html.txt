@@ -1,0 +1,5 @@
+<h2>Previous Work</h2>
+<p>I have removed malware from several websites. Here are some proof of work:</p>
+
+<img src="proofs/malware_before.png" alt="Before malware removal" width="300">
+<img src="proofs/malware_after.png" alt="After malware removal" width="300">
